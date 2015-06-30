@@ -1,0 +1,22 @@
+{
+  "name": "mocky",
+  "version": "1.0.0",
+  "description": "Mock mongodb collection api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sam Joch",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "should": "^7.0.1",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "sift": "^1.1.1",
+    "underscore": "^1.8.3"
+  }
+}
